@@ -1,4 +1,4 @@
-# HamzaProject
+# HamzaProject2
 New project to add
 package JqueryUiHomework;
 
@@ -11,5 +11,5 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 
-public class Jquery {
+public class Jquery {       Hello World 
 	
